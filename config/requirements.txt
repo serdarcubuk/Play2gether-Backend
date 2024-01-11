@@ -1,0 +1,12 @@
+alembic==1.13.1
+asyncpg==0.29.0
+email-validator==2.1.0.post1
+fastapi==0.108.0
+passlib==1.7.4
+pre-commit==3.6.0
+psycopg2-binary==2.9.9
+pydantic-settings==2.1.0
+python-jose==3.3.0
+sqlalchemy==2.0.25
+uvicorn==0.25.0
+websockets==12.0
